@@ -4,7 +4,7 @@
 
 效果图如下
 
-![image-20231031221959522](E:\Mai\Downloads\课程综述论文模板\效果图\image-20231031221959522.png)
+![image-20231031221959522](https://github.com/maihm6/Lecture-article-template/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/image-20231031221959522.png)
 
 ![image-20231031222203185](E:\Mai\Downloads\课程综述论文模板\效果图\image-20231031222203185.png)
 
