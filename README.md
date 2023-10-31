@@ -1,6 +1,6 @@
 # 课程论文综述模板
 
-该模板在某乎上的一个[大佬模板](https://zhuanlan.zhihu.com/p/496462136)的基础上增加了一些个人需求，感谢可爱的@byebyeberry 提供的帮助。
+该模板在某乎上的一个[大佬模板](https://zhuanlan.zhihu.com/p/496462136)的基础上增加了一些个人需求，感谢可爱的[@byebyeberry](https://github.com/byebyeberry)提供的帮助。
 
 效果图如下
 
